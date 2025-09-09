@@ -207,7 +207,3 @@ marimo/_lsp/
 __marimo__/
 
 *.csv
-
-!data/cleaned_IXI_behavioural.csv
-!data/cleaned_VBM_GM_Schaefer100x17_mean_aggregation.csv
-!data/cleaned_VBM_GM_TianxS1x3TxMNI6thgeneration_mean_aggregation.csv

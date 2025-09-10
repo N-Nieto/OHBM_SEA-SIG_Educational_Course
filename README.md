@@ -32,6 +32,14 @@ To run the jupyter notebook server, just type:
 The first time you will need to open the `get_files.ipynb` notebook and execute all its cells to download and prepare the data.
 
 
+## Running the Notebooks on Google Colab (you need a Google account)
+
+1. **Go to the file**: Find the file that you want to run in the repo. 
+2.  **Click the badge  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> on the top of the file** to launch the Colab.
+2.  **Uncomment the first cell** This will download the data and set the path.
+3.  **You are good to go!**: Now you can run the code on Google Colab. 
+
+
 ## Running the Notebooks on Binder
 
 You can run these notebooks instantly online without any local setup using Binder.
